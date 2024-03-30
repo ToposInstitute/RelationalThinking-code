@@ -138,4 +138,4 @@ Object(
     )
 end
     
-render(video, pathname = "Javis-gifs/looped-light.gif", framerate = 1)
+render(video, pathname = "Ch2/Javis-gifs/looped-light.gif", framerate = 1)

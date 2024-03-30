@@ -106,4 +106,4 @@ Object( num:num,
     )
 end
     
-render(video, pathname = "Javis-gifs/flashing-light.gif", framerate = 1)
+render(video, pathname = "Ch2/Javis-gifs/flashing-light.gif", framerate = 1)
