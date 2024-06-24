@@ -1,9 +1,7 @@
 # RelationalThinking-code
-This repository contains all the code presented in the online book "Relational Thinking - from Abstractions to Applications". 
 
-Here is the [Link] (https://toposinstitute.github.io/AlgJulia-Book/intro.html) to the book.
+This repository contains all the code presented in the online book "[Relational Thinking - from Abstractions to Applications](https://toposinstitute.github.io/AlgJulia-Book/intro.html)".
 
-Requirements: 
+Requirements:
 - Julia 1.10
 - Graphviz
-
